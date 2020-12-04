@@ -16,7 +16,7 @@ Test Header 1
     Four score and seven 
     years ago our 
     forefathers gave us a Republic.  
-    Like the intellecually challenged people we are in the 
-    modern times, we call it a "Democracy".  
+    Like the intellectually challenged people we are, in the 
+    modern times, we're calling it a "Democracy".  
     
-This error goes unchallenged to this day.
+This error usually goes unchallenged.
