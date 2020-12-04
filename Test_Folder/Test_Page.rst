@@ -19,4 +19,4 @@ Test Header 1
     Like the intellecually challenged people we are in the 
     modern times, we call it a "Democracy".  
     
-This error goes unchallengedd to this day.
+This error goes unchallenged to this day.
