@@ -13,9 +13,4 @@ Test Header 1
 #############
     Text Under a header 2.  
     
-    Four score and seven 
-    years ago our 
-    forefathers gave us a Republic.  
-    Since we're intellectually challenged, in the 
-    modern times, we're calling it a "Democracy".  
-    This error usually goes unchallenged.
+    The quick brown fox jumped over the lazy dog's back.
