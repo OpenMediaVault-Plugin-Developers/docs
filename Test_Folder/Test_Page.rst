@@ -1,7 +1,7 @@
 This page was create to test .rst formatting.
 
 
-A link to -> `Ebay <www.ebay.com>`_
+A link to <www.ebay.com>
 
 Internal Doc `Title <http://link>`_ 
 External .. _ Test:
