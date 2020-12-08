@@ -1,4 +1,4 @@
-This page was create to test .rst formatting.
+This page was created to test .rst formatting.
 
 
 A link to <www.ebay.com>
