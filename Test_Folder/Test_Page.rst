@@ -14,3 +14,6 @@ Test Header 1
     Text Under a header 2.  
     
     The quick brown fox jumped over the lazy dog's back.
+
+    
+Testing an automatic merge.
