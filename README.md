@@ -1,5 +1,5 @@
 # docs
-To use the links available in these documents and to enable copy & paste, download the PDF's and view them locally.
+Download the PDF's and view them locally.  (Enables the use of document links links and enables copy & paste.)
 
 The documents for Adden-A-Installing_OMV5_on_Armbian, Adden-B-Installing_OMV5_on_an R-PI.pdf, and Adden-C-Installing_OMV5_on_32-bit_i386 are available in a wiki at https://wiki.omv-extras.org/
 
